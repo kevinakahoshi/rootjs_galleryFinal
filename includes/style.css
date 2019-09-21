@@ -12,8 +12,13 @@
 
 .modal-body > img{
 	width: 100%;
+	cursor: pointer;
 }
 
 .modal-dialog{
 	width: 90%;
+}
+
+.imageGallery:hover {
+	cursor: pointer;
 }
